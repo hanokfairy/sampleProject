@@ -1,2 +1,1 @@
-# sampleProject
-tutorial repository
+# hi
